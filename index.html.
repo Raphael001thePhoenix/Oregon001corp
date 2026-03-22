@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oregon Corporations</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            padding: 20px;
+        }
+        h1 {
+            color: silver;
+            font-size: 40px;
+        }
+        button {
+            background-color: #A42106; /* A nice "pepper red" hex code */
+            color: gold;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Oregon Corporations</h1>
+    <h3>Agriculture</h3>
+    <p>We are proficient in all aspects of agriculture.</p>
+    
+    <button>Learn More</button>
+
+</body>
+</html>
+
+
+
+
+
+      
+
+
+
+
+
+
